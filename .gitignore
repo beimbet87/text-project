@@ -1,0 +1,16 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+.DS_Store
+
+# If you're using virtualenvs
+venv/
+env/
+.venv/
+
+# VS Code workspace settings
+.vscode/
